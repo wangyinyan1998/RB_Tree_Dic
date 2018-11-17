@@ -10,6 +10,7 @@
       <mapping ext="ai" type="PLAIN_TEXT" />
       <mapping ext="jpf" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="data" type="ThymeleafExpressions" />
     </extensionMap>
   </component>
 </application>
